@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tedtalk/ted/static/css/main.073c9b0a.css",
-    "main.js": "/tedtalk/ted/static/js/main.b6140359.js",
-    "static/js/787.4d8bbe03.chunk.js": "/tedtalk/ted/static/js/787.4d8bbe03.chunk.js",
-    "static/media/logo.svg": "/tedtalk/ted/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/tedtalk/ted/index.html",
-    "main.073c9b0a.css.map": "/tedtalk/ted/static/css/main.073c9b0a.css.map",
-    "main.b6140359.js.map": "/tedtalk/ted/static/js/main.b6140359.js.map",
-    "787.4d8bbe03.chunk.js.map": "/tedtalk/ted/static/js/787.4d8bbe03.chunk.js.map"
+    "main.css": "/tedtalk/static/css/main.073c9b0a.css",
+    "main.js": "/tedtalk/static/js/main.3ac03d75.js",
+    "static/js/787.4d8bbe03.chunk.js": "/tedtalk/static/js/787.4d8bbe03.chunk.js",
+    "static/media/logo.svg": "/tedtalk/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tedtalk/index.html",
+    "main.073c9b0a.css.map": "/tedtalk/static/css/main.073c9b0a.css.map",
+    "main.3ac03d75.js.map": "/tedtalk/static/js/main.3ac03d75.js.map",
+    "787.4d8bbe03.chunk.js.map": "/tedtalk/static/js/787.4d8bbe03.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b6140359.js"
+    "static/js/main.3ac03d75.js"
   ]
 }
